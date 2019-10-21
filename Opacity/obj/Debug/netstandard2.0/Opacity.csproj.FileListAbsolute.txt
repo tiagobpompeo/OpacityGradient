@@ -1,0 +1,13 @@
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/bin/Debug/netstandard2.0/Opacity.deps.json
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/bin/Debug/netstandard2.0/Opacity.dll
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/bin/Debug/netstandard2.0/ref/Opacity.dll
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/bin/Debug/netstandard2.0/Opacity.pdb
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/Opacity.csprojAssemblyReference.cache
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/Opacity.AssemblyInfoInputs.cache
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/Opacity.AssemblyInfo.cs
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/Opacity.dll
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/ref/Opacity.dll
+/Users/tbenaias/Documents/Projects/Opacity/Opacity/obj/Debug/netstandard2.0/Opacity.pdb

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8AA936C4-FD15-4231-A9C0-7C6E7F8A3827}|Default">
+  <MonoDevelop.Ide.ItemProperties.Opacity.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Opacity.Android/SharedCustomScrollView.cs">
+    <Files>
+      <File FileName="Opacity/MainPage.xaml.cs" Line="23" Column="32" />
+      <File FileName="Opacity/MainPage.xaml" Line="4" Column="57" />
+      <File FileName="Opacity/SharedCustomScrollView.cs" Line="8" Column="8" />
+      <File FileName="Opacity.Android/SharedCustomScrollView.cs" Line="15" Column="16" />
+      <File FileName="Opacity.iOS/SharedCustomScrollViews.cs" Line="55" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Opacity" expanded="True">
+            <Node name="Opacity" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Opacity.Android" expanded="True">
+              <Node name="SharedCustomScrollView.cs" selected="True" />
+            </Node>
+            <Node name="Opacity.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Opacity.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A735E3F-3008-43A0-BFBA-31244C4A033D" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Opacity.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
